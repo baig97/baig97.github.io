@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "title": "Design Engineer",
+    "company": "Cowlar Design Studio  ",
+    "duration": "Oct 2023 - Present",
+    "imageUrl": "/assets/cowlar.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "Lead Developer ",
+    "company": "InLights · Part-time ",
+    "duration": "Nov 2022 - Present",
+    "imageUrl": "/assets/co1.jpeg"  
+  },
+  {
+    "id": 2,
+    "title": "Design Intern ",
+    "company": "Zambeel Machine Craft",
+    "duration": "Jun 2022 - Aug 2022",
+    "imageUrl": "/assets/co2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Maintenance Intern",
+    "company": "Attock Refinery Limited",
+    "duration": "Aug 2021 - Sep 2021",
+    "imageUrl": "/assets/co3.jpeg"
+  }
+]

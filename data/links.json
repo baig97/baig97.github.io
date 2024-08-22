@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Gmail",
+      "url": "abdullahbaig297@gmail.com",
+      "image":"/assets/gmail.png" 
+    },
+    {
+        "id": 2,
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/muhammad-abdullah-baig-173132200/",
+        "image":"/assets/linkedin.png" 
+    },
+    {
+        "id": 3,
+        "name": "Fiverr",
+        "url": "https://www.fiverr.com/mab_07",
+        "image":"/assets/fiverr.png" 
+    },
+    {
+        "id": 4,
+        "name": "Upwork",
+        "url": "https://www.upwork.com/freelancers/~019e0881ebf1f3feab",
+        "image":"/assets/upwork.png" 
+    },
+    {
+        "id": 5,
+        "name": "CV",
+        "url": "/assets/pdf/resume.pdf",
+        "image":"/assets/cv.png" 
+    }
+  ]
+  

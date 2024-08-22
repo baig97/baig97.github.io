@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Computer Vison",
+      "desc": "I have 2+ years of experience in making Computer Vision Programs",
+      "image":"/assets/computervision.png" 
+    },
+    {
+        "id": 2,
+        "title": "Generative AI",
+        "desc": "I have 2+ years of experience in  generating AI content",
+        "image":"/assets/generativeai.png" 
+    },
+    {
+        "id": 3,
+        "title": "AI App Development",
+        "desc": "I have 2+ years of experience in AI App Development",
+        "image":"/assets/aiappdevelopment.png" 
+    }
+  ]
+  

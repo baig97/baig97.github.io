@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Wassim",
+      "role": "Upwork Client",
+      "quote": "Very good work. Thank you!",
+      "imageUrl":"/assets/avatar.png"
+    },
+    {
+      "id": 2,
+      "name": "atseven",
+      "role": "Fiverr Client",
+      "quote": "He is a very good developer & always willing to do any revision. I highly recommend for his services.",
+      "imageUrl": "/assets/avatar.png"
+    },
+    {
+      "id": 3,
+      "name": "Loic",
+      "role": "Upwork Client",
+      "quote": "It was a pleasure working with Muhammad. very talented and resourceful engineer!.I won't hesitate to work with him again",
+      "imageUrl": "/assets/avatar.png"
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "role": "Upwork Client",
+      "quote": "I am very happy with this transaction, Muhammad was quick to solve my issue, he communicated clearly and provided documentation to explain what was my problem.",
+      "imageUrl": "/assets/avatar.png"
+    }
+    
+  ]
