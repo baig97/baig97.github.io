@@ -3,28 +3,28 @@
     "id": 0,
     "title": "Chief Executive Officer",
     "company": "MADE IT",
-    "duration": "Dec 2023 - Present",
+    "duration": "Mar 2024 - Present",
     "imageUrl": "/assets/madeit.png"
   },
   {
     "id": 1,
+    "title": "Senior Generative AI/ML Engineer (GAN)",
+    "company": "QOVES Studio",
+    "duration": "Dec 2023 - June 2024",
+    "imageUrl": "/assets/qoves.png"
+  },
+  {
+    "id": 2,
     "title": "Design Engineer",
     "company": "Cowlar Design Studio  ",
     "duration": "Sep 2023 - Nov 2023",
     "imageUrl": "/assets/cowlar.jpeg"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Lead Developer",
     "company": "InLights",
     "duration": "Nov 2022 - June 2023",
     "imageUrl": "/assets/co1.jpeg"  
   },
-  {
-    "id": 3,
-    "title": "Design Intern ",
-    "company": "Zambeel Machine Craft",
-    "duration": "Jun 2022 - Aug 2022",
-    "imageUrl": "/assets/co2.jpeg"
-  }
 ]
